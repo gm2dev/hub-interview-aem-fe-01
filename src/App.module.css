@@ -1,0 +1,20 @@
+.main {
+  padding: 2rem;
+  margin-top: 5rem;
+}
+
+.title {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.subtitle {
+  font-size: 1.5rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.paragraph {
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
